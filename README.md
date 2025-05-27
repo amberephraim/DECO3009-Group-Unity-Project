@@ -1,4 +1,4 @@
-# DECO3009 Group Unity Project
+# DECO3009 Group 2 Tutorial 3 Unity Project
 
 
 > ## Need-to-knows: 
