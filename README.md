@@ -17,7 +17,7 @@
 - Playable piano
 - Guided meditation audios
 
-## Assets
+## External Assets
 - Customizable Skybox Shader by Key Mouse
 - - https://assetstore.unity.com/packages/2d/textures-materials/sky/customizable-skybox-174576
 - Grass Flowers Pack by ALP
