@@ -68,6 +68,6 @@
 - - https://www.freemindfulness.org/download
 - - Five minute breathing - Mindful Awareness Research Centre, UCLA
 - - The Tension Release Meditation - Vidyamala Burch, Breathworks
-- - Mountain meditation (8:12) - Peter Morgan
+- - Mountain meditation - Peter Morgan
 
 
