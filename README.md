@@ -22,7 +22,7 @@
 ** Individual elements were used to create a scene from scratch. Terrain texture, trees, grass, and the pond area were made with models from many different sources. No demo scenes were used to create the final product. All scripts except for the first person controller (player and camera movement) are original code. We used the first person controller so that it might be able to accept different inputs and work with the VR controller buttons and joystick. The audio files are meant to make the experience more immersive and give the feeling of a real meadow. We used real meditations and focused cameras that point at scenic locations so that the user can unwind and meditate for real. There are many options for meditation audio, background music, and skybox, so the user can customize the experience and make it more relaxing. 
 
 - Customizable Skybox Shader by Key Mouse
-- - https://assetstore.unity.com/packages/2d/textures-materials/sky/customizable-skybox-174576
+  - https://assetstore.unity.com/packages/2d/textures-materials/sky/customizable-skybox-174576
 - - Needed this to create a relaxed sky and more options to choose from based on user preference.
 - Grass Flowers Pack by ALP
 - - https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810
