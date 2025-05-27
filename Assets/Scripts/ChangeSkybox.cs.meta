@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6d990d5991cf94968be436959fbaa514
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - day: {fileID: 2100000, guid: 1645f9cc152ec42e1b1e3023a44893ab, type: 2}
+  - sunset: {fileID: 2100000, guid: 528363c5c1cf6a7458140c6851c77b68, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
